@@ -1,0 +1,12 @@
+[submodule "sistem-ci-cd-basic"]
+	path = sistem-ci-cd-basic
+	url = https://github.com/herbertfilhik/sistem-ci-cd-basic.git
+[submodule "infra-ti-cloud"]
+	path = infra-ti-cloud
+	url = https://github.com/herbertfilhik/infra-ti-cloud.git
+[submodule "iac-with-terraform"]
+	path = iac-with-terraform
+	url = https://github.com/herbertfilhik/iac-with-terraform.git
+[submodule "monitor-system-cloud"]
+	path = monitor-system-cloud
+	url = https://github.com/herbertfilhik/monitor-system-cloud.git
