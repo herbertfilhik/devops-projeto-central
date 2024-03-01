@@ -3,7 +3,7 @@
 ## Topicos
 - [Dia a Dia de um Senior DevOps Engineer](#Dia-a-Dia-de-um-Senior-DevOps-Engineer)
 - [Exercicios DevOps](#Exercicios-DevOps)
-- [](#)
+- [Estrutura Git do Projeto Central](#Estrutura-Git-do-Projeto-Central)
 - [](#)
 - [](#)
 - [](#)
@@ -55,3 +55,19 @@ Objetivo do Exercício: Criar um projeto utilizando Terraform para provisionar r
 4. Configurar e Monitorar Sistemas On-premise e na Nuvem
 Nome para o Repositório: monitoramento-sistemas-cloud
 Objetivo do Exercício: Implementar um sistema de monitoramento utilizando Prometheus e Grafana para coletar métricas e monitorar a saúde de aplicações rodando em Kubernetes, seja on-premise ou na nuvem.
+
+- Esses exercícios são projetados para cobrir várias facetas do papel de um DevOps Engineer, desde o desenho e implementação de pipelines de CI/CD até a configuração de monitoramento para sistemas on-premise e na nuvem, oferecendo uma abordagem prática para aprender e aprimorar as habilidades necessárias.
+
+## Estrutura Git do Projeto Central
+
+repo central
+https://github.com/herbertfilhik/devops-projeto-central
+
+sub rep
+https://github.com/herbertfilhik/sistem-ci-cd-basic
+https://github.com/herbertfilhik/infra-ti-cloud
+https://github.com/herbertfilhik/iac-with-terraform
+https://github.com/herbertfilhik/monitor-system-cloud
+
+Baixe o repositorio para conhecer os exercícios
+git clone https://USERNAME/devops-projeto-central.git
