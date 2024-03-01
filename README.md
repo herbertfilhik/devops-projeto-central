@@ -61,13 +61,13 @@ Objetivo do Exercício: Implementar um sistema de monitoramento utilizando Prome
 ## Estrutura Git do Projeto Central
 
 ### repo central
-- https://github.com/herbertfilhik/devops-projeto-central
+- devops-projeto-central
 
 ### sub rep
-- https://github.com/herbertfilhik/sistem-ci-cd-basic
-- https://github.com/herbertfilhik/infra-ti-cloud
-- https://github.com/herbertfilhik/iac-with-terraform
-- https://github.com/herbertfilhik/monitor-system-cloud
+- sistem-ci-cd-basic
+- infra-ti-cloud
+- iac-with-terraform
+- monitor-system-cloud
 
 ### Baixe o repositorio para conhecer os exercícios
 - git clone https://USERNAME/devops-projeto-central.git
