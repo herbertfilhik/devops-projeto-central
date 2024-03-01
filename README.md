@@ -59,6 +59,7 @@ Objetivo do Exercício: Implementar um sistema de monitoramento utilizando Prome
 - Esses exercícios são projetados para cobrir várias facetas do papel de um DevOps Engineer, desde o desenho e implementação de pipelines de CI/CD até a configuração de monitoramento para sistemas on-premise e na nuvem, oferecendo uma abordagem prática para aprender e aprimorar as habilidades necessárias.
 
 ## Estrutura Git do Projeto Central
+- Para entender cada exercício, acesse cada repositorio e siga o passo a passo dos readmes disponíveis em cada repositorio, conforme estrutura abaixo.
 
 ### repo central
 - devops-projeto-central
