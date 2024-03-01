@@ -6,7 +6,7 @@ O dia a dia de um Senior DevOps Engineer, é intenso e desafiador, mas igualment
 ### As responsabilidades primárias incluem:
 Desenhar Sistemas de CI/CD (Integração Contínua e Entrega Contínua): Isso envolve a criação de sistemas automatizados que facilitam o desenvolvimento, teste e implantação de software de forma rápida e eficiente.
 
-## Desenhar Infraestrutura de TI: 
+### Desenhar Infraestrutura de TI: 
 Planejar e estruturar a infraestrutura necessária para suportar os sistemas de software em desenvolvimento e em produção.
 
 ### Implementar Infraestrutura como Código e Configurações de Ambientes Dinâmicos: 
