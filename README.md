@@ -1,5 +1,16 @@
 # devops-projeto-central
 
+## Topicos
+-[Dia a Dia de um Senior DevOps Engineer](#DiaSeniorDevOpsEngineer)
+-[Exercicios DevOps](#ExerciciosDevOps)
+-[](#)
+-[](#)
+-[](#)
+-[](#)
+-[](#)
+-[](#)
+
+
 ## Dia a Dia de um Senior DevOps Engineer
 O dia a dia de um Senior DevOps Engineer, é intenso e desafiador, mas igualmente gratificante. Essa posição exige que o profissional seja altamente qualificado e experiente, além de ter conhecimentos avançados em administração de Linux e servidores, Docker, Kubernetes, e ao menos um dos principais provedores de nuvem (AWS, Google Cloud, Azure).
 
