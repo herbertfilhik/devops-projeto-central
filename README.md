@@ -1,14 +1,14 @@
 # devops-projeto-central
 
 ## Topicos
--[Dia a Dia de um Senior DevOps Engineer](#DiaSeniorDevOpsEngineer)
--[Exercicios DevOps](#ExerciciosDevOps)
--[](#)
--[](#)
--[](#)
--[](#)
--[](#)
--[](#)
+- [Dia a Dia de um Senior DevOps Engineer](#DiaSeniorDevOpsEngineer)
+- [Exercicios DevOps](#ExerciciosDevOps)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
 
 
 ## Dia a Dia de um Senior DevOps Engineer
