@@ -23,3 +23,24 @@ Assegurar que todos os sistemas estejam operacionais, seguros e otimizados, tant
 
 ### Reqs
 Os requisitos para essa posição não se limitam apenas às habilidades técnicas, mas também incluem disponibilidade em tempo integral e, embora não seja obrigatório, a fluência em inglês é considerada um diferencial.
+
+## Exercicios DevOps
+Com o objetivo de reforçar o que é devops e o que significa ter a disciplina no desenvolvimento, experimentaros alguns exercicios para fixar melhor o conceito.
+
+### Exercícios sobre Responsabilidades de um Senior DevOps Engineer
+
+1. Desenhar Sistemas de CI/CD
+Nome para o Repositório: sistema-ci-cd-basico
+Objetivo do Exercício: Criar um pipeline básico de CI/CD utilizando GitHub Actions para automatizar a integração e entrega de um aplicativo web simples. O pipeline deve incluir etapas para instalação de dependências, testes automatizados e deploy em um ambiente de staging.
+
+2. Desenhar Infraestrutura de TI
+Nome para o Repositório: infraestrutura-ti-cloud
+Objetivo do Exercício: Utilizar Terraform para desenhar e implementar uma infraestrutura básica na AWS, incluindo a criação de uma VPC, subnets, e uma instância EC2.
+
+3. Implementar Infraestrutura como Código
+Nome para o Repositório: iac-com-terraform
+Objetivo do Exercício: Criar um projeto utilizando Terraform para provisionar recursos automatizados na Google Cloud Platform, focando na criação de um cluster Kubernetes.
+
+4. Configurar e Monitorar Sistemas On-premise e na Nuvem
+Nome para o Repositório: monitoramento-sistemas-cloud
+Objetivo do Exercício: Implementar um sistema de monitoramento utilizando Prometheus e Grafana para coletar métricas e monitorar a saúde de aplicações rodando em Kubernetes, seja on-premise ou na nuvem.
